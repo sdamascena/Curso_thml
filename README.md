@@ -54,7 +54,7 @@
              <p>As listas ordenadas e não ordenadas são definidas pelas tags <i> ol e ul</i>, respectivamente. As listas podem conter itens que são marcados com a tag <i>li</i>. Os links são criados com <i>a</i> tag a e podem ser usados para conectar diferentes páginas da web ou para abrir um e-mail ou aplicativo.
              <h2>Meus comentarios sobre as aulas</h2>
              <h5><a href="#Voltar">Voltar</a></h5> 
-               <blockquote> <i>Como Iniciante em  HTML, fiquei surpreso em aprender sobre a importância dos servidores no mundo da tecnologia. Eles são responsáveis por gerenciar e compartilhar recursos, como arquivos, impressoras, bancos de dados e aplicativos. É incrível como esses computadores são projetados para operar continuamente sem falhas e podem ser escaláveis para atender às demandas crescentes dos usuários e dispositivos.
+             <blockquote> <i>Como Iniciante em  HTML, fiquei surpreso em aprender sobre a importância dos servidores no mundo da tecnologia. Eles são responsáveis por gerenciar e compartilhar recursos, como arquivos, impressoras, bancos de dados e aplicativos. É incrível como esses computadores são projetados para operar continuamente sem falhas e podem ser escaláveis para atender às demandas crescentes dos usuários e dispositivos.
 
                 Além disso, aprendi sobre as diferentes linguagens de programação, cada uma com sua própria sintaxe e conjunto de regras, como JavaScript, C++, PHP e Ruby. É interessante saber que cada linguagem é projetada para resolver problemas específicos e pode ser mais adequada para determinadas tarefas do que outras.
                 
