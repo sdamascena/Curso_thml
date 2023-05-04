@@ -56,11 +56,11 @@
              <h5><a href="#Voltar">Voltar</a></h5> 
              <blockquote> <i>Como Iniciante em  HTML, fiquei surpreso em aprender sobre a importância dos servidores no mundo da tecnologia. Eles são responsáveis por gerenciar e compartilhar recursos, como arquivos, impressoras, bancos de dados e aplicativos. É incrível como esses computadores são projetados para operar continuamente sem falhas e podem ser escaláveis para atender às demandas crescentes dos usuários e dispositivos.
 
-                Além disso, aprendi sobre as diferentes linguagens de programação, cada uma com sua própria sintaxe e conjunto de regras, como JavaScript, C++, PHP e Ruby. É interessante saber que cada linguagem é projetada para resolver problemas específicos e pode ser mais adequada para determinadas tarefas do que outras.
+<p>Além disso, aprendi sobre as diferentes linguagens de programação, cada uma com sua própria sintaxe e conjunto de regras, como JavaScript, C++, PHP e Ruby. É interessante saber que cada linguagem é projetada para resolver problemas específicos e pode ser mais adequada para determinadas tarefas do que outras.</p>
                 
-                Aprendi que HTML é um arquivo de marcação e não uma linguagem de programação, e que ele é usado para delimitar textos com tags que o navegador pode interpretar. Fiquei animado em aprender sobre as diferentes tags, como h1, h2, p, i, u e strong, e como elas são usadas para criar cabeçalhos, parágrafos e estilos de texto.
+<p>Aprendi que HTML é um arquivo de marcação e não uma linguagem de programação, e que ele é usado para delimitar textos com tags que o navegador pode interpretar. Fiquei animado em aprender sobre as diferentes tags, como h1, h2, p, i, u e strong, e como elas são usadas para criar cabeçalhos, parágrafos e estilos de texto.</p>
                 
-                Por fim, aprendi que os links são criados com a tag a e podem ser usados para conectar diferentes páginas da web ou para abrir um e-mail ou aplicativo. Aprendi muito neste curso de HTML e estou animado para continuar aprendendo mais sobre o desenvolvimento web.</i> </blockquote>
+<p>Por fim, aprendi que os links são criados com a tag a e podem ser usados para conectar diferentes páginas da web ou para abrir um e-mail ou aplicativo. Aprendi muito neste curso de HTML e estou animado para continuar aprendendo mais sobre o desenvolvimento web.</i> </blockquote></p>
                 <h2>Fontes e Recomendações</h2>
                 <h5><a href="#Voltar">Voltar</a></h5>
                 W3Schools <a href="https://www.w3schools.com/" title="clique aqui " target="_blank">W<sup>3</sup>Schools</a> Este site oferece uma grande variedade de tutoriais de HTML, desde os conceitos básicos até os mais avançados. Ele também possui uma interface de teste ao vivo que permite experimentar o código.
