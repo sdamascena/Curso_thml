@@ -18,7 +18,7 @@
              <h5><a href="#Voltar">Voltar</a></h5> 
 
         
-    <p>A história da Web começa em 1989, quando Tim Berners-Lee propôs um sistema de hipertexto para compartilhar informações. Em 1991, ele criou a primeira página web e o primeiro servidor web. A primeira versão do navegador web, o WorldWideWeb, foi lançada em 1993. Em 1994, o Mosaic, o primeiro navegador web comercial, foi lançado.
+    <p> A história da Web começa em 1989, quando Tim Berners-Lee propôs um sistema de hipertexto para compartilhar informações. Em 1991, ele criou a primeira página web e o primeiro servidor web. A primeira versão do navegador web, o WorldWideWeb, foi lançada em 1993. Em 1994, o Mosaic, o primeiro navegador web comercial, foi lançado.
     
             Nos anos 90, a Web se tornou cada vez mais popular, com o lançamento do Netscape Navigator e do Internet Explorer. Em 2004, o surgimento da Web 2.0 trouxe uma nova era de interatividade e colaboração na Web, com sites como o Facebook e o YouTube.
             Hoje, a Web é um elemento fundamental da sociedade moderna, com bilhões de usuários em todo o mundo acessando uma vasta gama de conteúdo, aplicativos e serviços. A Web tem sido fundamental para a criação de novas indústrias, como o comércio eletrônico, e tem transformado a maneira como as pessoas se comunicam, trabalham e se divertem. A história da Web é um exemplo de como uma ideia simples pode se tornar uma das invenções mais importantes da história da humanidade.
@@ -27,16 +27,19 @@
         <h2 id="lient x Server">O que são Servers?</h2>
         <h5><a href="#Voltar">Voltar</a></h5> 
 
-            Servers são computadores que fornecem serviços ou recursos para outros computadores ou dispositivos em uma rede. Eles são responsáveis ​​por gerenciar e compartilhar recursos, como arquivos, 
+   <p>  Servers são computadores que fornecem serviços ou recursos para outros computadores ou dispositivos em uma rede. Eles são responsáveis ​​por gerenciar e compartilhar recursos, como arquivos, 
             impressoras, bancos de dados e aplicativos, entre outras coisas. Existem vários tipos de servidores, incluindo servidores de arquivos, servidores de e-mail, servidores web e servidores de banco de dados. 
-            Servidores são projetados para operar continuamente sem falhas e podem ser configurados para serem escaláveis, a fim de atender às demandas crescentes de usuários e dispositivos. </p>
+            Servidores são projetados para operar continuamente sem falhas e podem ser configurados para serem escaláveis, a fim de atender às demandas crescentes de usuários e dispositivos. 
+  </p>
             <img width="600"  src="https://www.devmedia.com.br/imagens/02-07-2007pic01.JPG" >
 
          <h2 id="Linguagens">Linguagens de Programação</h2>
          <h5><a href="#Voltar">Voltar</a></h5> 
-           Linguagens de programação são utilizadas para escrever e criar programas de computador que são usados
+    
+  <P> Linguagens de programação são utilizadas para escrever e criar programas de computador que são usados
             para executar tarefas específicas. Existem diversas linguagens de programação, cada uma com sua própria sintaxe e conjunto de regras. Algumas das linguagens mais
              populares incluem: JS,JavaScript, C++, PHP e Ruby. Cada linguagem de programação é projetada para resolver problemas específicos e pode ser mais adequada para certas tarefas do que outras.
+       </P>
              <img width="300"  src="https://i.ibb.co/dB0YPdj/Cleinte-y-server.png" >
            <p> </p><strong>Linguagem Server-Side </strong>  é um tipo de linguagem de programação utilizada para
             criar aplicativos web que são executados no servidor em vez do navegador do usuário. Algumas das linguagens Server-Side mais populares
