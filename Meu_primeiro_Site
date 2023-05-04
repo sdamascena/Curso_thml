@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title>Meu Primeiro HTML</title>  
+</head>
+<body>
+    <strong>Meu Primeiro <i>HTML!</i></strong>
+    <input type="number">
+    <img width="150" src="https://images.unsplash.com/photo-1568402102990-bc541580b59f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80"/>
+</body>
+</html> 
