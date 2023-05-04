@@ -29,7 +29,7 @@
             impressoras, bancos de dados e aplicativos, entre outras coisas. Existem vários tipos de servidores, incluindo servidores de arquivos, servidores de e-mail, servidores web e servidores de banco de dados. 
             Servidores são projetados para operar continuamente sem falhas e podem ser configurados para serem escaláveis, a fim de atender às demandas crescentes de usuários e dispositivos. 
   </p>
-        <img width="800" src="[https://www.comschool.com.br/wp-content/uploads/2017/08/linha-do-tempo-internet-comschool.png](https://cdn.shopify.com/s/files/1/0098/7247/4167/files/servidor_de_cominio.jpg?v=1661367611)">
+        <img width="300" src="https://cdn.shopify.com/s/files/1/0098/7247/4167/files/servidor_de_cominio.jpg?v=1661367611">
 <h2 id="client-x-server">O que são Servers?</h2>
 <h5><a href="#voltar">Voltar</a></h5>
     
