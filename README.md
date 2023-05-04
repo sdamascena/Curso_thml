@@ -18,7 +18,7 @@
              <h5><a href="#Voltar">Voltar</a></h5> 
 
         
-     <p>A história da Web começou em 1989, quando Tim Berners-Lee propôs um sistema de hipertexto para compartilhar informações. Em 1991, ele criou a primeira página web e o primeiro servidor web. A primeira versão do navegador web, o WorldWideWeb, foi lançada em 1993. Em 1994, o Mosaic, o primeiro navegador web comercial, foi lançado.</p>
+ <p>A história da Web começou em 1989, quando Tim Berners-Lee propôs um sistema de hipertexto para compartilhar informações. Em 1991, ele criou a primeira página web e o primeiro servidor web. A primeira versão do navegador web, o WorldWideWeb, foi lançada em 1993. Em 1994, o Mosaic, o primeiro navegador web comercial, foi lançado.</p>
 <p>Nos anos 90, a Web se tornou cada vez mais popular, com o lançamento do Netscape Navigator e do Internet Explorer. Em 2004, o surgimento da Web 2.0 trouxe uma nova era de interatividade e colaboração na Web, com sites como o Facebook e o YouTube.</p>
 <p>Hoje, a Web é um elemento fundamental da sociedade moderna, com bilhões de usuários em todo o mundo acessando uma vasta gama de conteúdo, aplicativos e serviços. A Web tem sido fundamental para a criação de novas indústrias, como o comércio eletrônico, e tem transformado a maneira como as pessoas se comunicam, trabalham e se divertem. A história da Web é um exemplo de como uma ideia simples pode se tornar uma das invenções mais importantes da história da humanidade.</p>
       
@@ -31,10 +31,9 @@
             impressoras, bancos de dados e aplicativos, entre outras coisas. Existem vários tipos de servidores, incluindo servidores de arquivos, servidores de e-mail, servidores web e servidores de banco de dados. 
             Servidores são projetados para operar continuamente sem falhas e podem ser configurados para serem escaláveis, a fim de atender às demandas crescentes de usuários e dispositivos. 
   </p>
-            <img width="600"  src="https://www.devmedia.com.br/imagens/02-07-2007pic01.JPG" >
-
-         <h2 id="Linguagens">Linguagens de Programação</h2>
-         <h5><a href="#Voltar">Voltar</a></h5> 
+        <img width="800" src="https://www.comschool.com.br/wp-content/uploads/2017/08/linha-do-tempo-internet-comschool.png">
+<h2 id="client-x-server">O que são Servers?</h2>
+<h5><a href="#voltar">Voltar</a></h5>
     
   <P> Linguagens de programação são utilizadas para escrever e criar programas de computador que são usados
             para executar tarefas específicas. Existem diversas linguagens de programação, cada uma com sua própria sintaxe e conjunto de regras. Algumas das linguagens mais
