@@ -1,6 +1,5 @@
 <html>
     <head> 
-        <title>Meu Blog</title>
     </head>
     <body>
        <h1 style = "color:rgb(150, 63, 63);"> Formação HTML Web Developer</h1>
