@@ -40,9 +40,9 @@
   <P> Linguagens de programação são utilizadas para escrever e criar programas de computador que são usados
             para executar tarefas específicas. Existem diversas linguagens de programação, cada uma com sua própria sintaxe e conjunto de regras. Algumas das linguagens mais
              populares incluem: JS,JavaScript, C++, PHP e Ruby. Cada linguagem de programação é projetada para resolver problemas específicos e pode ser mais adequada para certas tarefas do que outras.
-       </P>
+  </P>
              <img width="300"  src="https://i.ibb.co/dB0YPdj/Cleinte-y-server.png" >
-           <p> </p><strong>Linguagem Server-Side </strong>  é um tipo de linguagem de programação utilizada para
+           <p> <strong>Linguagem Server-Side </strong>  é um tipo de linguagem de programação utilizada para</p>
             criar aplicativos web que são executados no servidor em vez do navegador do usuário. Algumas das linguagens Server-Side mais populares
              incluem PHP, Ruby, Python e Java.
             <p> </p><strong>Linguagem Client-side </strong> Linguagem Client-Side é um tipo de linguagem de programação usada para criar aplicativos web que são executados no navegador do usuário. Alguns exemplos de linguagens Client-Side incluem JavaScript, HTML e CSS. Essas linguagens permitem que os desenvolvedores criem páginas da web interativas e dinâmicas que respondem aos eventos e ações do usuário
